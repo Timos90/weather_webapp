@@ -53,5 +53,3 @@
 		and
 
 		`make dev-startapp apps=weather` 
-
-hello
