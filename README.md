@@ -15,7 +15,7 @@
 
 	- With the command:
 
-		`python3 -m venv .venv --prompt name_your_project`
+		`python3 -m venv .venv --prompt weather_webapp`
 
 
 - Activate **venv**
