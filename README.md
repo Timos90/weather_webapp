@@ -42,7 +42,14 @@
 
 		`python3 -m createDB`
 
+## **STEP 5**
 
+- Create your apps.
 
+	- With the command:
 
+		`make dev-startapp apps=user` 
 
+		and
+
+		`make dev-startapp apps=weather` 
